@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace.</string>
+    <string name="title_1">Coucher de soleil</string>
+    <string name="artist_1">Kat Kuan </string>
+    <string name="title_2">Cercles de couleur</string>
+    <string name="artist_2">Owen Scott</string>
+    <string name="title_3">Vagues</string>
+    <string name="artist_3">Owen Scott</string>
+</resources>
